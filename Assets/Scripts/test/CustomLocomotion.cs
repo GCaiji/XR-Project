@@ -21,6 +21,8 @@ public class AdvancedLocomotion : MonoBehaviour
     {
         InitializeController();
         _mainCamera = Camera.main.transform;
+        
+        
     }
 
     void InitializeController()
